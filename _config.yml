@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "personal_pic.png"
   name             : "Fuqin Zhou in NJIT"
   pronouns         : "She/Her"# example: "she/her"
   bio              : "A Ph.D. Student"
