@@ -8,10 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Fuqin Zhou / Site Title"
+title                    : "Fuqin Zhou / Personal Website"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Fuqin Zhou"
+description              : &description "Fuqin is a Ph.D. candidate in the Business Data Science Program with B.S. in Financial Engineering. She has 4 year of industry experience in Bank finance.  She has 2 years of experience in areas spanning Supply Chain management, Economy, Finance and portfolio management. 
+Her research interests include, but are not limited to big data, risk management, and financial technology."
 url                      : https://zhoufq001.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -22,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Fuqin Zhou in NJIT"
+  pronouns         : "She/Her"# example: "she/her"
+  bio              : "A Ph.D. Student"
+  location         : "Newark, NJ"
+  employer         : "NJIT"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "fz24@njit.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
