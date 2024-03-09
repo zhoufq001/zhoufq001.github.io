@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Be a better woman."#"academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Fuqin is a Ph.D. candidate in the Business Data Science Program with B.S. in Financial Engineering. She has 4 year of industry experience in Bank finance.  She has 2 years of experience in areas spanning Supply Chain management, Economy, Finance and portfolio management. 
+Fuqin is a Ph.D. candidate in the Business Data Science Program in NJIT with B.S. in Financial Engineering in RUC. She has 4 year of industry experience in Bank finance.  She has 2 years of experience in areas spanning Supply Chain management, Economy, Finance and portfolio management. 
 Her research interests include, but are not limited to big data, risk management, and financial technology.
 
 
