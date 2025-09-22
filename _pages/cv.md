@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Resume
-
-This is the resume of [Fuqin Zhou](http://zhoufq001.github.io/files/cv_fuqinZhou.pdf "Resume").
+Click the link to access the resume of [Fuqin Zhou](http://zhoufq001.github.io/files/cv_fuqinZhou.pdf "Resume").
 
 Education
 ======
