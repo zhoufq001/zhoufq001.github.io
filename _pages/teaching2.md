@@ -4,37 +4,30 @@ title: "Teaching"
 author_profile: true
 ---
 
-## Locations of key files/directories
+## Instructor
 
-{\bf Martin Tuchman School of Management, New Jersey Institute of Technology}
+MGMT216 Business Data Analytics, Fall 2024(Rating: 3.7/4) 
 
-{\em Instructor}
+MGMT116 Quantitative Analysis with Applications for Business, Spring 2025(Rating: 3.3/4)
 
-{MGMT116 Quantitative Analysis with Applications for Business} \hfill {Spring 2025(Rating: 3.3/4)} 
+## Teaching Assistant
 
-{MGMT216 Business Data Analytics} \hfill {Fall 2024(Rating: 3.7/4)} 
+FIN310 Data-Driven Financial Modeling (Instructor: Jasmine Chang), Summer 2023
 
-{\em Lab Assistant}
+FIN218 Financial Markets Institutions (Instructor: Jinghua Wang, Alice Liu), Fall 2023
 
-{NJIT Bloomberg Lab} \hfill {2022-2023} 
+FIN430 Options and Futures Markets (Instructor: Jinghua Wang), Fall 2023
 
-{\em Teaching Assistant}
+FIN417 Investments Management (Instructor: Jinghua Wang), Fall 2023
 
-{FIN310 Data-Driven Financial Modeling (Instructor: Jasmine Chang)} \hfill {Summer 2023} 
+FIN641 Derivatives Markets (Instructor: Alice Liu), Fall 2023
 
-{FIN218 Financial Markets \&
-Institutions (Instructor: Jinghua Wang, Alice Liu)} \hfill {Fall 2023} 
+FIN218 Financial Markets Institutions (Instructor: Jinghua Wang), Spring 2024
 
-{FIN430 Options and Futures Markets (Instructor: Jinghua Wang)} \hfill {Fall 2023} 
+FIN216 Business Data Analytics (Instructor: Jasmine Chang), Spring 2024
 
-{FIN417 Investments Management (Instructor: Jinghua Wang)} \hfill {Fall 2023} 
+## Others
 
-{FIN641 Derivatives Markets (Instructor: Alice Liu)} \hfill {Fall 2023} 
+NJIT Bloomberg Lab, Teaching assistant, 2022-2023
 
-{FIN218 Financial Markets \&
-Institutions (Instructor: Jinghua Wang)} \hfill {Spring 2024} 
-
-{FIN216 Business Data Analytics (Instructor: Jasmine Chang)} \hfill {Spring 2024} 
-
-{Tutoring: Accounting, Finance and Management} \hfill {2022-2023} 
-
+Tutoring for Accounting, Finance and Management, 2022-2023
