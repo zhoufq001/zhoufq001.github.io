@@ -9,7 +9,6 @@ location: #"City, Country"
 ---
 
 MGMT116 Quantitative Analysis with Applications for Business, Spring 2025(Rating: 3.3/4)
-
 MGMT216 Business Data Analytics, Fall 2024(Rating: 3.7/4)
 
 Heading 1
