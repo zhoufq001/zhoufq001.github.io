@@ -2,7 +2,7 @@
 title: "Teaching Assistant"
 collection: teaching
 type: #"Workshop"
-permalink: /teaching/ta-teaching-2
+permalink: #/teaching/ta-teaching-2
 venue: #"University 1, Department"
 date: 2023-01-01
 location: #"City, Country"
