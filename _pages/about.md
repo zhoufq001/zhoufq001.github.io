@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Fuqin is a Ph.D. candidate in the Business Data Science Program in NJIT with B.S. in Financial Engineering in Renmin University. She has 4 year of industry experience in Bank finance.  She has 2 years of experience in areas spanning Supply Chain management, Economy, Finance and portfolio management. 
-Her research interests include, but are not limited to big data, risk management, and financial technology.
+I'm a Ph.D. candidate in the Business Data Science Program in NJIT with B.S. in Financial Engineering in Renmin University. I have 4 year of industry experience in Bank finance.  I have 3 years of experience in areas spanning Supply Chain management, Economy, Finance and portfolio management. 
+My research interests include, but are not limited to **big data, food supply chain economy, and financial technology**.
 
-Email: fz24@njit.edu
+**Email**: fz24@njit.edu
 
 
 
