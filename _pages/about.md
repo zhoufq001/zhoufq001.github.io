@@ -7,10 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. candidate in the Business Data Science Program in New Jersey Institute of Technology (NJIT) with B.S. in Financial Engineering in Renmin University. I have 4 year of industry experience in Bank finance.  I have 3 years of experience in areas spanning Supply Chain Management, Economy, Finance and AI. 
-My research interests include, but are not limited to **big data, food supply chain economy, and financial technology**.
+I am a Ph.D. candidate in Business Data Science at the New Jersey Institute of Technology (NJIT) with a background in Financial Engineering from Renmin University and four years of professional experience in banking and finance. My research spans big data, food supply chain economics, and financial technology, with a focus on how transportation systems and shocks influence food price volatility. By integrating operational, spatial, and policy perspectives, my work develops data-driven insights and frameworks to better understand and manage food crises.
 
-**Email**: fz24@njit.edu
+**Email**: [fz24@njit.edu](mailto:fz24@njit.edu)
 
 
 
