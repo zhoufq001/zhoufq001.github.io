@@ -12,19 +12,19 @@ MGMT116 Quantitative Analysis with Applications for Business, Spring 2025(Rating
 
 ## Teaching Assistant
 
-FIN310 Data-Driven Financial Modeling (Instructor: Jasmine Chang), Summer 2023
+FIN310 Data-Driven Financial Modeling, Summer 2023
 
-FIN218 Financial Markets Institutions (Instructor: Jinghua Wang, Alice Liu), Fall 2023
+FIN218 Financial Markets Institutions, Fall 2023
 
-FIN430 Options and Futures Markets (Instructor: Jinghua Wang), Fall 2023
+FIN430 Options and Futures Markets, Fall 2023
 
-FIN417 Investments Management (Instructor: Jinghua Wang), Fall 2023
+FIN417 Investments Management, Fall 2023
 
-FIN641 Derivatives Markets (Instructor: Alice Liu), Fall 2023
+FIN641 Derivatives Markets, Fall 2023
 
-FIN218 Financial Markets Institutions (Instructor: Jinghua Wang), Spring 2024
+FIN218 Financial Markets Institutions, Spring 2024
 
-FIN216 Business Data Analytics (Instructor: Jasmine Chang), Spring 2024
+FIN216 Business Data Analytics, Spring 2024
 
 ## Others
 
