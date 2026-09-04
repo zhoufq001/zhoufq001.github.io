@@ -11,18 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-<style>
-  .research-projects {
-    counter-reset: research-project;
-  }
-
-  .research-projects h2::before {
-    counter-increment: research-project;
-    content: counter(research-project) ". ";
-  }
-</style>
-
-<div class="research-projects">
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
@@ -64,5 +52,3 @@ author_profile: true
 
 **Abstract**: This study investigates the impact of bag tax policy in the United States. By leveraging 71k historical dataset and Vensim modeling, we simulate the interactions and feedback loops to demonstrate and forecast policy impacts, providing evidence-based recommendations for optimizing tax structures and accompanying measures to maximize environmental and social benefits.
  </details>
-
-</div>
