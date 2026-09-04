@@ -15,6 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+<hr>
+
 # Working papers
 ## 3. Food on Road: A Novel County-Level Analysis of Road Density and its Impact on Food Prices in the U.S. Market, with Dr. Jasmine (Aichih) Chang, Dr. Jim Shi
 <details class="publication-abstract">
@@ -30,6 +32,8 @@ author_profile: true
 **Abstract**:  We propose a multi-agent coordination framework for resilient local food systems, where autonomous agents collaboratively detect disruptions, assess operational impacts, reallocate orders, replan logistics, and negotiate recovery actions under distributed information. This framework allows a food hub and its ecosystem partners to autonomously coordinate recovery actions after disruptions through privacy-preserving negotiation and adaptive decision-making, while balancing service reliability, food waste reduction, and fairness.
  </details>
 
+
+<hr>
 
 # Work in progress
 ## 5. Ripple Effects of Tariff Shocks: Estimating Supply Chain Disruptions and Transportation Cost Spillovers in the U.S. Tomato Market, with Dr. Jasmine (Aichih) Chang, Dr. Jim Shi
