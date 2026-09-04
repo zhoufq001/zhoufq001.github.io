@@ -30,6 +30,10 @@ FIN218 Financial Markets Institutions, Spring 2024
 
 FIN216 Business Data Analytics, Spring 2024
 
+MGMT480 Managing Tech & Innovation, Summer 2026
+
+ENTR210 Intro to Entrepreneurship, Summer 2026
+
 ## Others
 
 NJIT Bloomberg Lab, Teaching assistant, 2022-2023
