@@ -11,6 +11,8 @@ I am a Ph.D. candidate in Business Data Science at the New Jersey Institute of T
 
 **Email**: [fz24@njit.edu](mailto:fz24@njit.edu)
 
+**Links**: [Research](/publications/) | [Teaching](/teaching2/) | [CV](/cv/)
+
 
 
 <!-- this is a note -->
