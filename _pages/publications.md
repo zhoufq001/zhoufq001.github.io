@@ -11,6 +11,18 @@ author_profile: true
 
 {% include base_path %}
 
+<style>
+  .research-projects {
+    counter-reset: research-project;
+  }
+
+  .research-projects h2::before {
+    counter-increment: research-project;
+    content: counter(research-project) ". ";
+  }
+</style>
+
+<div class="research-projects">
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
@@ -46,9 +58,11 @@ author_profile: true
 **Abstract**: Fresh food retailers operate in a highly uncertain environment where product perishability and fluctuating consumer demand make pricing and inventory management especially challenging. This project proposes an AI-enabled dynamic pricing system using XR wearables to track freshness and adjust prices in real time. By linking fixed purchase costs with prices shaped by perishability and fluctuating demand, retailers can optimize product selection, ordering, and pricing. The approach aims to boost profitability, reduce waste, and improve decision-making in fresh food retail.
  </details>
 
-## The Impact and Implications of Bag Tax Policies on Sustainable Operations: A Systems Dynamics Approach, with Dr. nNesreen El-Rayes, Dr. Jasmine (Aichih) Chang, Dr. Jim Shi
+## The Impact and Implications of Bag Tax Policies on Sustainable Operations: A Systems Dynamics Approach, with Dr. Nesreen El-Rayes, Dr. Jasmine (Aichih) Chang, Dr. Jim Shi
 <details class="publication-abstract">
 <summary>Abstract</summary>
 
 **Abstract**: This study investigates the impact of bag tax policy in the United States. By leveraging 71k historical dataset and Vensim modeling, we simulate the interactions and feedback loops to demonstrate and forecast policy impacts, providing evidence-based recommendations for optimizing tax structures and accompanying measures to maximize environmental and social benefits.
  </details>
+
+</div>
