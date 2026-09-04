@@ -9,18 +9,17 @@ redirect_from:
 
 I am a Ph.D. candidate in Business Data Science at the New Jersey Institute of Technology (NJIT), with a background in Financial Engineering from Renmin University of China and four years of professional experience in banking and finance. My research lies at the intersection of big data, food supply chain economics, and financial technology, with a particular focus on how transportation systems and disruptions shape food price volatility. By integrating operational, spatial, and policy perspectives, I develop data-driven insights and analytical frameworks to better understand and manage food crises.
 
-**Email**: [fz24@njit.edu](mailto:fz24@njit.edu)
-
-**Links**: [Research](/publications/) | [Teaching](/teaching2/) | [HONORS & SERVICES](/cv/)
-
-**Download CV**: [Download CV Here](http://zhoufq001.github.io/files/cv_fuqinZhou.pdf "Resume")
-
 ## Education
 
 * Ph.D in Business Data Science, New Jersey Institute of Technology, 2027 (expected)
 * B.A. in Financial Engineering, Renmin University, 2018
 
+**Email**: [fz24@njit.edu](mailto:fz24@njit.edu)
 
+
+[Download CV (PDF)](http://zhoufq001.github.io/files/cv_fuqinZhou.pdf "Resume"){: .btn}
+
+<!-- **Links**: [Research](/publications/) | [Teaching](/teaching2/) | [Honors&Services](/cv/) -->
 
 <!-- this is a note -->
 <!-- 

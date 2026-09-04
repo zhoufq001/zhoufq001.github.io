@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "HONORS & SERVICES"
+title: "Honors&Services"
 permalink: /cv/
 author_profile: true
 redirect_from:
