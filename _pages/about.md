@@ -11,7 +11,14 @@ I am a Ph.D. candidate in Business Data Science at the New Jersey Institute of T
 
 **Email**: [fz24@njit.edu](mailto:fz24@njit.edu)
 
-**Links**: [Research](/publications/) | [Teaching](/teaching2/) | [CV](/cv/)
+**Links**: [Research](/publications/) | [Teaching](/teaching2/) | [HONORS & SERVICES](/cv/)
+
+**Download CV**: [Download CV Here](http://zhoufq001.github.io/files/cv_fuqinZhou.pdf "Resume")
+
+## Education
+
+* Ph.D in Business Data Science, New Jersey Institute of Technology, 2027 (expected)
+* B.A. in Financial Engineering, Renmin University, 2018
 
 
 
