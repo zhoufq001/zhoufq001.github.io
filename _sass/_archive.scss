@@ -66,6 +66,11 @@
   }
 }
 
+.archive__item-abstract,
+.publication-abstract {
+  margin-left: 1em;
+}
+
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;
