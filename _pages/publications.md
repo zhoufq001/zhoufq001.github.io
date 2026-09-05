@@ -20,7 +20,7 @@ author_profile: true
 {% assign next_publication_number = site.publications.size | plus: 1 %}
 
 # Working papers
-## {{ next_publication_number }}. Food on Road: A Novel County-Level Analysis of Road Density and its Impact on Food Prices in the U.S. Market, with Dr. Jasmine (Aichih) Chang, Dr. Jim Shi
+### {{ next_publication_number }}. Food on Road: A Novel County-Level Analysis of Road Density and its Impact on Food Prices in the U.S. Market, with Dr. Jasmine (Aichih) Chang, Dr. Jim Shi
 {% assign next_publication_number = next_publication_number | plus: 1 %}
 <details class="publication-abstract">
 <summary>Abstract</summary>
