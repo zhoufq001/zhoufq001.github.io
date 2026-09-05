@@ -184,14 +184,6 @@
     color: $masthead-link-color;
     text-decoration: none;
 
-    &:after {
-      content: "↗";
-      display: inline-block;
-      margin-left: 0.25em;
-      font-size: 0.75em;
-      vertical-align: 0.15em;
-    }
-
     &:hover {
       color: $masthead-link-color-hover;
     }
