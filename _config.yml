@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "personal_pic_202512.png"
   name             : "Fuqin Zhou @NJIT"
-  pronouns         : "She/Her/Hers"# example: "she/her"
+  pronouns         : "She/Her/Hers" # example: "she/her"
   bio              : "Ph.D Candidate in Business Data Science"
   location         : "Newark, NJ"
   employer         : "NJIT"
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/fuqin-zhou-b4759015a/" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
