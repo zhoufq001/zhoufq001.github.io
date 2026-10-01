@@ -23,6 +23,6 @@ Selected Honors
 Service & Activities
 ======
 * Mentor and Leader of NJIT Team - Bloomberg Trading Challenge, 2023
-* Doctoral Consortium - Annual POMS Conference, 2026 / DSI Annual Conference, 2025
-* Reviewer - European Journal of Operational Research / Omega: The International Journal of Management Science / Data Science and Management / DSI Annual Conference, 2026
-
+* Doctoral Consortium Participant - POMS Conference, 2026; DSI Conference, 2025
+* Reviewer - European Journal of Operational Research; Omega: The International Journal of Management Science; Data Science and Management; DSI Conference, 2026
+* Conference Session Chair - POMS Conference, 2026 and 2027; DSI Conference, 2026
