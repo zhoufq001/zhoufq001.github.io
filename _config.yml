@@ -26,8 +26,8 @@ author:
   name             : "Fuqin Zhou @NJIT"
   pronouns         : "She/Her/Hers" # example: "she/her"
   bio              : "Ph.D Candidate in Business Data Science"
-  location         : "Newark, NJ"
-  employer         : "NJIT"
+  location         : # "Newark, NJ"
+  employer         : # "NJIT"
   uri              : # URL
   email            : "fz24@njit.edu"
 
